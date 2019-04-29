@@ -1,4 +1,6 @@
 //分治思想下的全排列问题，来源：https://mp.weixin.qq.com/s/paOrlfpdMwvCUDywda0EvQ
+package test;
+
 public class FullSort {
     public static void main(String[] args) {
         int[] arr = { 1, 2, 3, 4 };
