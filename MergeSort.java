@@ -1,3 +1,4 @@
+//分治思想下的归并排序算法，来源于：https://mp.weixin.qq.com/s/paOrlfpdMwvCUDywda0EvQ
 package test;
 import java.util.Arrays;
 public class MergeSort {
